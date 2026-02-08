@@ -1,4 +1,4 @@
-delete unused file
+
 from kivy.app import App
 from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.image import Image
@@ -225,3 +225,4 @@ class PenaltyApp(App):
 if __name__ == "__main__":
 
     PenaltyApp().run()
+
